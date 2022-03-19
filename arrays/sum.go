@@ -1,6 +1,6 @@
 package sum
 
-func Sum(numbers [5]int) int {
+func Sum(numbers []int) int {
 	sum := 0
 	// range lets us loop over the array
 	// range returns the item's index & value
